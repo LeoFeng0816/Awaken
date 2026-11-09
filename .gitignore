@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+dist/
+*.log
+claude-*-progress.jsonl
+
+# Local assistant session files
+CLAUDE_*.md
+claude-*.jsonl

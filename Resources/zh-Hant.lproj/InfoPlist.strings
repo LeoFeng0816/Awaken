@@ -1,0 +1,4 @@
+/* 繁體中文 App 名稱 */
+CFBundleDisplayName = "靜醒";
+CFBundleName = "靜醒";
+NSHumanReadableCopyright = "靜醒：選單列保持清醒工具";

@@ -1,0 +1,4 @@
+/* English app name */
+CFBundleDisplayName = "Awaken";
+CFBundleName = "Awaken";
+NSHumanReadableCopyright = "Awaken: a menu bar keep-awake utility";
