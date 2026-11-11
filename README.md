@@ -6,7 +6,7 @@
 
 [English](README.en.md) · [功能](#功能) · [查看介面](#介面預覽) · [下載與安裝](#下載與安裝) · [使用方式](#使用方式) · [捐款](#捐款-donation)
 
-**系統需求：**搭載 Apple Silicon（M 系列晶片）的 Mac，macOS 14 或以上；不支援 Intel Mac。
+**系統需求**：搭載 Apple Silicon（M 系列晶片）的 Mac，macOS 14 或以上；不支援 Intel Mac。
 
 ## 功能
 
@@ -26,6 +26,7 @@
 
 1. 在 Mac 上開啟 [Awaken v0.1.0 下載頁面](https://github.com/LeoFeng0816/Awaken/releases/tag/v0.1.0)。在頁面的 **Assets** 下方，點選 **Awaken-v0.1.0-macOS-arm64.dmg**；也可以[直接下載安裝檔](https://github.com/LeoFeng0816/Awaken/releases/download/v0.1.0/Awaken-v0.1.0-macOS-arm64.dmg)。
 2. 下載完成後，在 Finder 的「下載項目」中找到並連按兩下該 `.dmg` 檔案。
+(第一次開啟高機率會被系統阻擋，若無法正常開啟請看下方(#如果 macOS 阻擋首次開啟)
 3. 在開啟的視窗中，將 **靜醒** 圖示拖到 **Applications（應用程式）** 資料夾圖示上，等待複製完成。
 4. 打開 Finder 的「應用程式」資料夾，連按兩下 **靜醒** 開啟。若 macOS 顯示無法開啟的警告，請依照[下方步驟](#如果-macos-阻擋首次開啟)操作。
 5. 開啟後，點選螢幕最上方選單列的**咖啡杯圖示**，就能使用靜醒。它不會顯示在 Dock 中。完成安裝後，可在 Finder 側邊欄退出 Awaken 磁碟映像檔。
